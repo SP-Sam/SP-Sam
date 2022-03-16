@@ -15,8 +15,7 @@
 
 - ⚡ Curiosidade **Sei resolver o cubo mágico 😎 (mas não sou rápido o bastante pra te impressionar 😔).**
 <br>
-<h2 align="center">🛠 Linguagens e ferramentas</h2>
-
+<h3 align="center">🛠 Linguagens e ferramentas</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
@@ -34,15 +33,12 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="40"/></a>
 </p>
 <br>
+<h3 align="center">📈 Minhas estatísticas no GitHub</h3>
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=SP-Sam&theme=midnight-purple&hide_border=true&background=060A0CD0">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Samuel Pereira's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SP-Sam&theme=midnight-purple&hide_border=true&background=060A0CD0"/>
   </a>
 </p>
-
-<br>
-
-<h2 align="center">📈 Minhas estatísticas no GitHub</h2>
   <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
       <img height="100%" alt="Samuel Pereira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-Sam&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=060A0CD0"/>
