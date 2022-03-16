@@ -1,7 +1,6 @@
 <div align="center">
   <a href="#"><img width="auto" height="200px" src="https://i.ibb.co/XjWh5wy/dev-setup.png" alt="dev-setup"></a>
 </div>
-<br>
 <h1 align="center">Olá 👋🏽, me chamo Samuel</h1>
 <h3 align="center">Sou um jovem desenvolvedor Front-end, apaixonado por tecnologia!</h3>
 
@@ -44,21 +43,16 @@
 <br>
 
 <h2 align="center">📈 Minhas estatísticas no GitHub</h2>
-<br>
   <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
-      <img alt="Samuel Pereira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-Sam&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=060A0CD0"/>
+      <img height="100%" alt="Samuel Pereira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-Sam&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=060A0CD0"/>
     </a>
-  </p>
-  <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
-      <img alt="Samuel Pereira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SP-Sam&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=060A0CD0"/>
+      <img height="100%" alt="Samuel Pereira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SP-Sam&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=060A0CD0"/>
     </a>
   </p>
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Samuel Pereira's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SP-Sam&bg_color=060A0CD0&color=9745f5&line=9f4bff&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 
 ## Minhas redes:
 <p align="left">
