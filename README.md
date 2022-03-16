@@ -15,12 +15,8 @@
 - 📫 Meu email para contato **pro_samuel@outlook.com**.
 
 - ⚡ Curiosidade **Sei resolver o cubo mágico 😎 (mas não sou rápido o bastante pra te impressionar 😔).**
-
-<br>
-<hr>
 <br>
 <h2 align="center">🛠 Linguagens e ferramentas</h2>
-<br>
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
@@ -51,16 +47,16 @@
 <br>
   <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
-      <img alt="Samuel Pereira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-Sam&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+      <img alt="Samuel Pereira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-Sam&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=060A0CD0"/>
     </a>
   </p>
   <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
-      <img alt="Samuel Pereira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SP-Sam&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+      <img alt="Samuel Pereira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SP-Sam&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=060A0CD0"/>
     </a>
   </p>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Samuel Pereira's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SP-Sam&bg_color=0D1117&color=9745f5&line=9f4bff&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Samuel Pereira's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SP-Sam&bg_color=060A0CD0&color=9745f5&line=9f4bff&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
