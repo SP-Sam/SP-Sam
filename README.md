@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img width="auto" height="200px" src="https://i.ibb.co/XjWh5wy/dev-setup.png" alt="dev-setup"></a>
+  <a href="#"><img width="auto" height="150px" src="https://i.ibb.co/XjWh5wy/dev-setup.png" alt="dev-setup"></a>
 </div>
 <h1 align="center">Olá 👋🏽, me chamo Samuel</h1>
 <h3 align="center">Sou um jovem desenvolvedor Front-end, apaixonado por tecnologia!</h3>
