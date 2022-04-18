@@ -21,7 +21,8 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="48" height="42"/></a>
   <a href="https://jestjs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42"/></a>
