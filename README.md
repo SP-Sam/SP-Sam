@@ -34,11 +34,6 @@
 </p>
 
 <h2 align="center">📈 Minhas estatísticas no GitHub</h2>
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=SP-Sam&theme=midnight-purple&hide_border=true&background=060A0CD0">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Samuel Pereira's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SP-Sam&theme=midnight-purple&hide_border=true&background=060A0CD0"/>
-  </a>
-</p>
   <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
       <img height="100%" alt="Samuel Pereira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-Sam&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=060A0CD0"/>
