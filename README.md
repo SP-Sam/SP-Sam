@@ -5,11 +5,9 @@
 <h3 align="center">Sou um jovem desenvolvedor Front-end, apaixonado por tecnologia!</h3>
 
 ## 🙋🏽‍♂️ Sobre mim
-- 🎂 Tenho **21 anos** de idade.
+- 🎂 Tenho **22 anos** de idade.
 
 - 📍 Moro em **Americana, São Paulo 🇧🇷**.
-
-- 📚 Atualmente estudando **Back-end com Node.js**.
 
 - 📫 Meu email para contato **pro_samuel@outlook.com**.
 
