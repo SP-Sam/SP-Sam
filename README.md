@@ -5,13 +5,11 @@
 <h3 align="center">Sou um jovem desenvolvedor web, apaixonado por tecnologia!</h3>
 
 ## 🙋🏽‍♂️ Sobre mim
-- 🎂 Tenho **22 anos** de idade.
+- 🎂 Tenho **25 anos** de idade.
 
 - 📍 Moro em **Americana, São Paulo 🇧🇷**.
 
 - 📫 Meu email para contato **pro_samuel@outlook.com**.
-
-- ⚡ Curiosidade **Sei resolver o cubo mágico 😎 (mas não sou rápido o bastante pra te impressionar 😔).**
 
 <h2 align="center">🛠 Linguagens e ferramentas</h2>
 <p align="center">
